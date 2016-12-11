@@ -1,5 +1,5 @@
 
-.. image:: img/pin_large.png
+.. image:: img/flo_large.png
     :width: 100
 .. image:: img/incubator.jpg
     :width: 150
